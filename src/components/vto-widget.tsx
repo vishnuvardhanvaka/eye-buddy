@@ -146,7 +146,7 @@ export function VtoWidget(this: any, props: GlassArViewProps) {
   return (
     <div>
       <div className="mx-auto">
-        <div ref={refPlaceHolder} style={{ height: isheight, width: iswidth }}>
+        <div ref={refPlaceHolder} className="mx-auto" style={{ height: isheight, width: iswidth }}>
           <canvas ref={refCanvas}></canvas>
 
           <div ref={refLoading}>

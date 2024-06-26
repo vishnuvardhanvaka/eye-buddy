@@ -44,7 +44,7 @@ export default function ContactForm() {
 
     return (
         <Form {...contactForm}>
-            <form className="flex space-x-2" onSubmit={contactForm.handleSubmit(handleSignup)}>
+            <form className="flex space-x-2 justify-center" onSubmit={contactForm.handleSubmit(handleSignup)}>
                 <FormField
                     control={contactForm.control}
                     name='email'
