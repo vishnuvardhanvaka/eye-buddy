@@ -1,7 +1,8 @@
 "use client";
 import { useRef, useEffect, useState } from "react";
 import Image from "next/image";
-import { JEELIZVTOWIDGET } from "jeelizvtowidget";
+// import { JEELIZVTOWIDGET } from "jeelizvtowidget";
+const JEELIZVTOWIDGET = require('jeelizvtowidget').JEELIZVTOWIDGET;
 
 
 // import './index.css's
