@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Aviator",
+    "image": "/glassImages/rayban_aviator_or_vertFlash.jpg",
+    "model": "rayban_aviator_or_vertFlash"
+  },
+  {
+    "id": 2,
+    "name": "Rayban Clubmaster",
+    "image": "/glassImages/rayban_clubmaster_noir_bleuGris.jpg",
+    "model": "rayban_clubmaster_noir_bleuGris"
+  },
+  {
+    "id": 3,
+    "name": "Rayban Chris Noir",
+    "image": "/glassImages/rayban_chris_noir_argent_gris_degrade.jpg",
+    "model": "rayban_chris_noir_argent_gris_degrade"
+  },
+  {
+    "id": 4,
+    "name": "Rayban Chris",
+    "image": "/glassImages/rayban_chris_noir_gun_bleu_mirroir.jpg",
+    "model": "rayban_chris_noir_gun_bleu_mirroir"
+  },
+  {
+    "id": 5,
+    "name": "Rayban Chris",
+    "image": "/glassImages/rayban_justin_noir_vert.jpg",
+    "model": "rayban_justin_noir_vert"
+  },
+  {
+    "id": 6,
+    "name": "Rayban Chris",
+    "image": "/glassImages/custom_rayban_ferrari_noir_vert_classique.jpg",
+    "model": "rayban_ferrari_noir_vert_classique"
+  }
+]
